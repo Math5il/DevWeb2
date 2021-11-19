@@ -1,0 +1,25 @@
+{
+  "hostels": [
+    {
+      "nome": "Ibis",
+      "numero": "265",
+      "localizacao": "SP",
+      "preco": "565",
+      "id": 3
+    },
+    {
+      "nome": "Ibis",
+      "numero": 231,
+      "localizacao": "sp",
+      "preco": 235,
+      "id": 4
+    },
+    {
+      "nome": "Sla",
+      "numero": "324",
+      "localizacao": "ES",
+      "preco": "253",
+      "id": 5
+    }
+  ]
+}
